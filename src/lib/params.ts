@@ -43,15 +43,15 @@ export const getPlatfromIcon = (platform: Platform): Icons => {
 
 export const HOME: HomePageParams = {
 	title: 'Home',
-	name: 'Name',
-	lastName: 'LASTNAME',
+	name: 'Leonardo',
+	lastName: 'Stefanello',
 	description:
 		'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti, rerum. Debitis accusantium deleniti enim iste dignissimos? Similique, exercitationem! Odit vero, numquam quae ratione maxime sunt reiciendis laudantium quaerat iure ipsum!',
 	links: [
 		{ platform: Platform.GitHub, link: 'https://github.com/' },
 		{
 			platform: Platform.Linkedin,
-			link: 'https://www.linkedin.com/'
+			link: 'https://www.linkedin.com/in/leonardostefanello/'
 		},
 		{
 			platform: Platform.Twitter,
@@ -63,7 +63,7 @@ export const HOME: HomePageParams = {
 		},
 		{
 			platform: Platform.Email,
-			link: 'riadh-adrani@hotmail.fr'
+			link: 'leonardobassostefanello@outlook.com'
 		},
 		{
 			platform: Platform.Youtube,
